@@ -1,0 +1,11 @@
+Di sebuah kota kecil yang penuh dengan hiruk-pikuk kehidupan, hiduplah seorang wanita muda bernama Vella. Vella adalah pribadi yang tekun, dengan semangat yang tinggi dan mimpi besar untuk menjadi ahli teknologi. Sejak kecil, ia sudah terpesona dengan dunia komputer dan teknologi; setiap mesin, setiap algoritma, semuanya seperti teka-teki yang menantangnya untuk menemukan jawaban.
+
+Vella memiliki sifat yang selalu haus akan pengetahuan. Setiap pagi, dia memulai hari dengan belajar sesuatu yang baru, entah itu tentang bahasa pemrograman, desain web, atau data sains. Meskipun belajar di rumah sering menjadi tantangan baginya—di mana gangguan bisa datang dari segala arah—Vella memiliki cara unik untuk mengatasi hal ini. Dia akan memasang lagu-lagu yang menenangkan di latar belakang, mematikan notifikasi yang tidak perlu, dan sesekali membawa secangkir kopi hangat untuk menemani setiap langkah studinya.
+
+Suatu hari, Vella bergabung dengan sebuah akademi khusus yang dikenal dengan nama Bisa AI Academy, di mana ia belajar dari para mentor yang ahli dan penuh inspirasi. Di sana, dia mulai mengasah keterampilannya dalam HTML, CSS, hingga JavaScript, bahkan mengerjakan proyek yang menantang seperti membuat aplikasi manajemen buku berbasis JavaScript dan proyek Pokedex Web menggunakan React dan Tailwind CSS.
+
+Namun, perjalanan Vella tidak selalu mulus. Di beberapa malam yang larut, saat orang lain tertidur lelap, ia sering merasa lelah dan ingin menyerah. Tetapi, ia selalu teringat akan mimpinya—menjadi seorang ahli teknologi yang bisa membuat perubahan di masa depan. Itu yang membuatnya terus bangkit, menghadapi setiap kesulitan dengan tekad yang lebih kuat.
+
+Dengan ketekunan dan kerja kerasnya, Vella tak hanya tumbuh menjadi seorang yang ahli dalam teknologi, tetapi juga menjadi inspirasi bagi mereka yang mengenalnya. Setiap hari adalah kesempatan baginya untuk menjadi lebih baik, untuk mencapai versi dirinya yang lebih kuat, lebih bijaksana, dan lebih dekat dengan impian yang selalu ia impikan.
+
+Vella terus melangkah maju, menghadapi dunia teknologi yang penuh tantangan dengan senyuman dan keyakinan bahwa masa depan selalu ada di tangannya.

@@ -1,14 +1,15 @@
 {
   "name": "tugas_week_7_nodejs",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BNTWXiY_)\r # Tugas Week 7 Nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "make-folder" : "node index.js make-folder",
-    "make-file" : "",
-    "ext-sorter" : "",
-    "read-folder" : ""
+    "make-folder": "node index.js make-folder",
+    "make-file": "node index.js make-file",
+    "ext-sorter": "node index.js ext-sorter",
+    "read-folder": "node index.js read-folder",
+    "read-file": "node index.js read-file"
   },
   "keywords": [],
   "author": "",
